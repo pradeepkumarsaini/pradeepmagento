@@ -9,7 +9,7 @@ declare(strict_types=1);
 
 use Magento\Framework\Autoload\AutoloaderRegistry;
 use Magento\Framework\Autoload\ClassLoaderWrapper;
-hhhhhhhhhhhhhhh
+hhhhhhhhhhhhhhh   
 /**
  * Shortcut constant for the root directory
  */
